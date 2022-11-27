@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324499308305",
+    "project_id": "qatarreciclagem-fatec",
+    "storage_bucket": "qatarreciclagem-fatec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324499308305:android:8cc764344c62d6701ed6b0",
+        "android_client_info": {
+          "package_name": "com.example.qatarreciclagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324499308305-26l3oqi144qg1lo7je7873pa2a92mvff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALcWdtautmjvySpHcpINfVEqlqAPUQgeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324499308305-26l3oqi144qg1lo7je7873pa2a92mvff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
